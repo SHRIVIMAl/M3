@@ -237,7 +237,7 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/62259bd5-0e4b-4b18-878f-9145ec2cf6f5)
+![Screenshot 2025-04-27 143208](https://github.com/user-attachments/assets/a1c24eb5-9707-4274-a85d-1974797430e7)
 
  
 ## Result:
